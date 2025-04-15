@@ -3,7 +3,7 @@ Huddle landing page with alternating feature blocks solution
 
 ### Links
 
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://mahmoudbadrali.github.io/Huddle-landing-page-with-alternating-feature-blocks/)
 
 ## Author
 
