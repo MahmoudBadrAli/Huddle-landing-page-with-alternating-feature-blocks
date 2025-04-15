@@ -46,6 +46,12 @@ header {
     margin-bottom: 100px;
 }
 
+@media (max-width: 911px) {
+    header {
+        background-image: url("../Challenge/huddle-landing-page-with-alternating-feature-blocks-master/images/bg-hero-mobile.svg");
+    }
+}
+
 header .top {
     display: -webkit-box;
     display: -ms-flexbox;
